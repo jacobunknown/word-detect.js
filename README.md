@@ -24,4 +24,4 @@ const wordDetect = require('word-detect.js');
 console.log(wordDetect.includesWord('Hello World!', "hello"));
 
 // Even though 'hell' is inside 'hello', this will still return false:
-console.log(wordDetect.includesWord('Hello World!', "hell"));```
+console.log(wordDetect.includesWord('Hello World!', "hell"));
