@@ -17,10 +17,10 @@ word-detect has three main functions:
 
 `includesWord()` takes in 2 parameters; The string, and the word to be searched for.
 
-`const wordDetect = require('./index.js');
+```const wordDetect = require('./index.js');
 
 // This will return true:
 console.log(wordDetect.includesWord('Hello World!', "hello"));
 
 // Even though 'hell' is inside 'hello', this will still return false:
-console.log(wordDetect.includesWord('Hello World!', "hell"));`
+console.log(wordDetect.includesWord('Hello World!', "hell"));```
