@@ -1,5 +1,5 @@
 {
-  "name": "worddetect",
+  "name": "word-detect.js",
   "version": "1.0.0",
   "description": "A (super) small library for intelligently detecting words in strings.",
   "main": "index.js",
