@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jacob Unknown",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobunknown/word-detect.js"
+  },
+  "keywords": ["word", "detection", "text", "string", "language"],
   "license": "ISC"
 }

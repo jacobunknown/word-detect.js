@@ -1,7 +1,7 @@
 # word-detect.js
 A (super) small library for intelligently detecting words in strings.
 
-**NOTE:** none of these functions are case sensitive.
+**NOTE:** none of these functions are case sensitive. Also, this library currently only works in English.
 
 Install with:
 
